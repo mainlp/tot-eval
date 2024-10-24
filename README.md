@@ -1,5 +1,5 @@
 # Understanding When Tree of Thoughts Succeeds: Larger Models Excel in Generation, Not Discrimination
-Official implementation for paper [Understanding When Tree of Thoughts Succeeds: Larger Models Excel in Generation, Not Discrimination]() with code, prompts and datasets.
+Official implementation for paper [Understanding When Tree of Thoughts Succeeds: Larger Models Excel in Generation, Not Discrimination](https://arxiv.org/abs/2410.17820) with code, prompts and datasets.
 
 ## Setup
 The `enviroment.yaml` file contains the required conda environment.
@@ -11,3 +11,15 @@ The `enviroment.yaml` file contains the required conda environment.
 - To experiment, run the `run.py` file with the required arguments.
 
 ## Citation
+If you find this work interesting/useful, you can cite this paper as:
+```bibtex
+@misc{chen2024understandingtreethoughtssucceeds,
+      title={Understanding When Tree of Thoughts Succeeds: Larger Models Excel in Generation, Not Discrimination}, 
+      author={Qiqi Chen and Xinpeng Wang and Philipp Mondorf and Michael A. Hedderich and Barbara Plank},
+      year={2024},
+      eprint={2410.17820},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.17820}, 
+}
+```
